@@ -1,0 +1,9 @@
+C:\Users\nathalie.anascimento\Documents\ProjetoTI108\EmpresaABC\LojaABC\bin\Debug\LojaABC.exe.config
+C:\Users\nathalie.anascimento\Documents\ProjetoTI108\EmpresaABC\LojaABC\bin\Debug\LojaABC.exe
+C:\Users\nathalie.anascimento\Documents\ProjetoTI108\EmpresaABC\LojaABC\bin\Debug\LojaABC.pdb
+C:\Users\nathalie.anascimento\Documents\ProjetoTI108\EmpresaABC\LojaABC\obj\Debug\LojaABC.csproj.AssemblyReference.cache
+C:\Users\nathalie.anascimento\Documents\ProjetoTI108\EmpresaABC\LojaABC\obj\Debug\LojaABC.Properties.Resources.resources
+C:\Users\nathalie.anascimento\Documents\ProjetoTI108\EmpresaABC\LojaABC\obj\Debug\LojaABC.csproj.GenerateResource.cache
+C:\Users\nathalie.anascimento\Documents\ProjetoTI108\EmpresaABC\LojaABC\obj\Debug\LojaABC.csproj.CoreCompileInputs.cache
+C:\Users\nathalie.anascimento\Documents\ProjetoTI108\EmpresaABC\LojaABC\obj\Debug\LojaABC.exe
+C:\Users\nathalie.anascimento\Documents\ProjetoTI108\EmpresaABC\LojaABC\obj\Debug\LojaABC.pdb
