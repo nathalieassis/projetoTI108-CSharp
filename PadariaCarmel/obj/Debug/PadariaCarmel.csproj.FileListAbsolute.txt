@@ -10,3 +10,4 @@ C:\Users\nathalie.anascimento\Documents\Visual Studio 2019\ProjetoTI108\EmpresaA
 C:\Users\nathalie.anascimento\Documents\Visual Studio 2019\ProjetoTI108\EmpresaABC\PadariaCarmel\obj\Debug\PadariaCarmel.exe
 C:\Users\nathalie.anascimento\Documents\Visual Studio 2019\ProjetoTI108\EmpresaABC\PadariaCarmel\obj\Debug\PadariaCarmel.pdb
 C:\Users\nathalie.anascimento\Documents\Visual Studio 2019\ProjetoTI108\EmpresaABC\PadariaCarmel\obj\Debug\PadariaCarmel.csproj.AssemblyReference.cache
+C:\Users\nathalie.anascimento\Documents\Visual Studio 2019\ProjetoTI108\EmpresaABC\PadariaCarmel\obj\Debug\PadariaCarmel.frmSplash.resources

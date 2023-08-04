@@ -42,9 +42,18 @@ namespace PadariaCarmel
             try
             {
 
-
                 num1 = Convert.ToDouble(txtNum1.Text);
                 num2 = Convert.ToDouble(txtNum2.Text);
+
+                if (rdbSoma.Checked || rdbSubtracao.Checked || rdbMultiplicacao.Checked || rdbMultiplicacao.Checked || rdbDivisao.Checked)
+                {
+                    //Message.Show("funcionou");
+                }
+
+                else
+                {
+                   
+                }
 
                 //estrutura de decisão 
                 if (rdbSoma.Checked)

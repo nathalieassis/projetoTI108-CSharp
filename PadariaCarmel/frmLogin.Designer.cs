@@ -89,6 +89,7 @@ namespace PadariaCarmel
             this.txtUsuario.Name = "txtUsuario";
             this.txtUsuario.Size = new System.Drawing.Size(179, 26);
             this.txtUsuario.TabIndex = 0;
+            this.txtUsuario.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtUsuario_KeyDown);
             // 
             // btnEntrar
             // 

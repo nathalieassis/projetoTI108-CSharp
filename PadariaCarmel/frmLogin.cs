@@ -29,11 +29,35 @@ namespace PadariaCarmel
 
         private void btnEntrar_Click(object sender, EventArgs e)
         {
+            if (txtUsuario.Text.Equals("senac") && txtSenha.Text.Equals("senac"))
+            {
+                frmMenuPrincipal abrir = new frmMenuPrincipal();
+                abrir.Show();
+                this.Hide();
+            }
+
+            else
+            {
+                MessageBox.Show("Usuário ou senha inválidos.",
+               "Mensagem do sistema",
+               MessageBoxButtons.OK,
+               MessageBoxIcon.Error,
+               MessageBoxDefaultButton.Button1);
+            }
+
             MessageBox.Show("Bem vindo ao sistema.",
                 "Mensagem do sistema",
                 MessageBoxButtons.YesNoCancel,
                 MessageBoxIcon.Information,
                 MessageBoxDefaultButton.Button3);
+        }
+
+        private void txtUsuario_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                btnEntrar.Focus();
+            }
         }
     }
 }
